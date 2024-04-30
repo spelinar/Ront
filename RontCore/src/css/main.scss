@@ -12,7 +12,7 @@ $font-family-jetBrains-mono: 'JetBrains Mono';
 h1 {
   font-family: $font-family-jetBrains-mono;
   font-weight: 700;
-  font-size: 32px;
+  font-size: 30px;
   line-height: 36px;
 }
 
@@ -20,21 +20,21 @@ h2 {
   h2 {
     font-family: $font-family-jetBrains-mono;
     font-weight: 700;
-    font-size: 24px;
+    font-size: 22px;
     line-height: 30px;
   }
 }
 
 h3 {
   font-family: $font-family-jetBrains-mono;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 27px;
 }
 
 h4 {
   font-family: $font-family;
   font-weight: 600;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 27px;
 }
 
@@ -51,6 +51,6 @@ h6 {
 }
 
 p {
-  font-family: $font-family;
+  font-family: $font-family !important;
   font-weight: 600;
 }

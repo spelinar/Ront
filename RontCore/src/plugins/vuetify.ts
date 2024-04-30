@@ -13,7 +13,8 @@ const myCustomLightTheme = {
     info: "#428bc1",
     success: "#529746",
     warning: "#ff992f",
-    footer: "#5c7b83"
+    footer: "#35383d",
+    "footer-accent": "#24272c",
   },
 };
 
@@ -27,7 +28,8 @@ const myCustomDarkTheme = {
     info: "#428bc1",
     success: "#529746",
     warning: "#ff992f",
-    footer: "#5c7b83"
+    footer: "#5c7b83",
+    "footer-accent": "#33494f",
   },
 };
 

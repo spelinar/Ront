@@ -1,0 +1,56 @@
+@import "../assets/fontawesome/css/all.css";
+
+$font-family: 'League Spartan';
+$font-family-jetBrains-mono: 'JetBrains Mono';
+
+* {
+  font-family: $font-family, sans-serif;
+  overflow-wrap: break-word !important;
+  word-break: break-word !important;
+}
+
+h1 {
+  font-family: $font-family-jetBrains-mono;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 36px;
+}
+
+h2 {
+  h2 {
+    font-family: $font-family-jetBrains-mono;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+  }
+}
+
+h3 {
+  font-family: $font-family-jetBrains-mono;
+  font-size: 18px;
+  line-height: 27px;
+}
+
+h4 {
+  font-family: $font-family;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 27px;
+}
+
+h5 {
+  font-family: $font-family;
+  font-size: 12px;
+  line-height: 27px;
+}
+
+h6 {
+  font-family: $font-family;
+  font-size: 10px;
+  line-height: 27px;
+}
+
+p {
+  font-family: $font-family;
+  font-weight: 600;
+}

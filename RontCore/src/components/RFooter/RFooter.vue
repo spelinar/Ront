@@ -4,10 +4,14 @@
     app
   >
     <v-row class="d-flex">
-      <v-col>
-
+      <v-col class="text-center">
+<h4 class="">Logo i nazwa</h4>
       </v-col>
-      <v-col></v-col>
+      <v-col class="text-center">
+        <h4 class="text-uppercase">Roman Spelina Company</h4>
+        <p>Borowska 217</p>
+        <p>50-572 Wrocław</p>
+      </v-col>
       <v-col class="justify-center text-center">
           <h4 class="text-uppercase">Skontaktuj się z nami</h4>
           <p>e-mail: rorenthelp@gmail.com</p>

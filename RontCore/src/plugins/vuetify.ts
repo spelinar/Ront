@@ -13,6 +13,7 @@ const myCustomLightTheme = {
     info: "#428bc1",
     success: "#529746",
     warning: "#ff992f",
+    footer: "#5c7b83"
   },
 };
 
@@ -26,7 +27,7 @@ const myCustomDarkTheme = {
     info: "#428bc1",
     success: "#529746",
     warning: "#ff992f",
-
+    footer: "#5c7b83"
   },
 };
 

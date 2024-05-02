@@ -6,7 +6,7 @@ import { aliases } from "vuetify/iconsets/fa-svg";
 const myCustomLightTheme = {
   dark: false,
   colors: {
-    primary: "#b2322b",
+    primary: "#768350",
     secondary: "#FDCC99",
     accent: "#FFFFFF",
     error: "#b2322b",
@@ -21,7 +21,7 @@ const myCustomLightTheme = {
 const myCustomDarkTheme = {
   dark: true,
   colors: {
-    primary: "#b2322b",
+    primary: "#768350",
     secondary: "#FDCC99",
     accent: "#FFFFFF",
     error: "#b2322b",
